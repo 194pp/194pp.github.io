@@ -171,6 +171,7 @@ nav {
 .language__img {
   width: 100%;
   max-width: 100px;
+  max-height: 100px;
   transition: all 300ms;
 }
 
@@ -325,7 +326,7 @@ footer {
 }
 
 .footer__logo--img {
-  width: 70px;
+  width: 100px;
   height: 70px;
 }
 
